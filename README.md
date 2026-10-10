@@ -27,6 +27,7 @@ To execute the automated JUnit 5 test suite (including validation for both sides
 
 
  What I Would Improve With More Time:
+ 
  Advanced Error Handling & Validation: Implement global validation filters for stricter schema sanitization.
 
 Authentication & Rate Limiting: Add API key or token-based authentication and rate-limiting rules for secure production usage.
@@ -36,6 +37,7 @@ OpenAPI/Swagger Documentation: Export an interactive API documentation interface
 
 
 AI Tools Used
+
 Gemini: Used as an AI coding collaborator for project scaffolding, Javalin configuration guidance, Jackson JSON mapping setup, and designing the graph Breadth-First Search (BFS) shortest path algorithm with the strict 3-hop limit.
    
 
